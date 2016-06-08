@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.default_subspec = 'Core'
-  s.name     = 'MagicalRecord'
+  s.name     = 'MagicalRecordWatchOS'
   s.version  = '2.3.3'
   s.license  = 'MIT'
   s.summary  = 'Super Awesome Easy Fetching for Core Data 1!!!11!!!!1!.'
